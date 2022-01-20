@@ -1,0 +1,58 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(213, 235, 248);
+}
+
+.header{
+    height: 10em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url("../imgs/banner.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header h1{
+    margin: 0;
+    font-weight: 400;
+    color: yellow;
+}
+
+.products {
+    width: 80%;
+    margin: auto;
+}
+
+.products td{
+    width: 50%;
+    padding: 2em;
+}
+.products img{
+    width: 100%;
+    border: solid 1px #ddd;
+}
+
+.subtitulo{
+    color: #008e97;
+}
+
+p {
+    color: #008e97;
+    font-size: 100%;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: #008e97;
+    text-align: center;
+    font-weight: 900;
+}
+
+h3 {
+    text-decoration: none;
+    color: yellow;
+}
+
+a {text-decoration: none;
+}

@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #000000;
+    font-family: Raleway, sans-serif;
+}
+
+header {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.img-iguana {
+    background-image: url("../imgs/bg-header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 70rem;
+}
+
+.desc-section {
+    padding: 2rem;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.centrado {
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.centrado p {
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    vertical-align: middle;
+    padding: 1rem;
+    text-align: justify;
+}
+
+.centrado img {
+    width: 4rem;
+    padding: 0 auto;
+}
+
+.gallery {
+    text-align: center;
+    padding: 50px 100px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.photo {
+    display: inline-block;
+    width: 30%;
+}
+
+.caracteristicas {
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    background-color: #1E1A13;
+    background-repeat: no-repeat;
+    padding: 2rem;
+    width: 100%;
+    color: #FFFFFF;
+}
+
+.caracteristicas i {
+    color: #FFFFFF;
+    font-size: 3rem;
+}
+
+.caracteristicas-sect {
+    color: #FFFFFF;
+    display: inline-block;
+    width: 30%;
+    padding: 25px;
+}
+
+footer {
+    color: #FFFFFF;
+    text-align: center;
+    padding: 2rem;
+    background-color: #1E1A13;
+}
+
+h2 {
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.imagen-gal {
+    width: 350px;
+    height: 250px;
+}
+
+.par-der{
+    margin-right: 50px;
+}
+
+.icono{
+    margin: 10px;
+}

@@ -1,0 +1,23 @@
+* {
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+}
+.nav {
+    background-color: #28a745;
+}
+
+.row {
+    padding: 2rem;
+}
+
+.card {
+    width: 20rem;
+}
+
+form {
+    text-align: center;
+}
+.foot {
+    text-align: center;
+    margin: 2em;
+}
